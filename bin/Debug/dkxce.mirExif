@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExifValueItm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExifValueItm>
+    <Key>Exif.Image.Artist</Key>
+    <Value>Photographer: dkxce, Post-processing: dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.CameraSerialNumber</Key>
+    <Value />
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Copyright</Key>
+    <Value>Copyrights dkxce 2021. All rights reserved.</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.ImageDescription</Key>
+    <Value>dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Make</Key>
+    <Value>dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Model</Key>
+    <Value>dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.ProcessingSoftware</Key>
+    <Value>MilokImageReady</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Software</Key>
+    <Value>Image Ready</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.UniqueCameraModel</Key>
+    <Value />
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Photo.UserComment</Key>
+    <Value>dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Iptc.Application2.Contact</Key>
+    <Value>dkxce</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Iptc.Application2.Copyright</Key>
+    <Value>Copyrights dkxce 2021. All rights reserved.</Value>
+  </ExifValueItm>
+</ArrayOfExifValueItm>

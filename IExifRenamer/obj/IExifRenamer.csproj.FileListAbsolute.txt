@@ -1,0 +1,5 @@
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\IExifRenamer\bin\Release\IExifRenamer.dll
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\IExifRenamer\bin\Release\IExifRenamer.pdb
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\IExifRenamer\obj\Release\ResolveAssemblyReference.cache
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\IExifRenamer\obj\Release\IExifRenamer.dll
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\IExifRenamer\obj\Release\IExifRenamer.pdb

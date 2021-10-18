@@ -1,0 +1,7 @@
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.exe
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.pdb
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\ResolveAssemblyReference.cache
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.MainForm.resources
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.Properties.Resources.resources
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.csproj.GenerateResource.Cache
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\obj\Debug\MilokImageReady.exe.licenses

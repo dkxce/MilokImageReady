@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExifValueItm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExifValueItm>
+    <Key>Exif.Image.Artist</Key>
+    <Value>Photographer: Milok Zbrozek, Post-processing: Milok Zbrozek</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.CameraSerialNumber</Key>
+    <Value />
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Copyright</Key>
+    <Value>Copyrights Milok Zbrozek 2010 (milokz@gmail.com). All rights reserved.</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.ImageDescription</Key>
+    <Value>Milok Zbrozek Photography</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Make</Key>
+    <Value>Milok Zbrozek</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Model</Key>
+    <Value>Милок Зброжек</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.ProcessingSoftware</Key>
+    <Value>MilokImageReady</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.Software</Key>
+    <Value>Milok Zbrozek Image Ready</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Image.UniqueCameraModel</Key>
+    <Value />
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Exif.Photo.UserComment</Key>
+    <Value>www.milokz.ru</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Iptc.Application2.Contact</Key>
+    <Value>Milok Zbrozek (milokz@gmail.com)</Value>
+  </ExifValueItm>
+  <ExifValueItm>
+    <Key>Iptc.Application2.Copyright</Key>
+    <Value>Copyrights Milok Zbrozek 2010 (milokz@gmail.com). All rights reserved.</Value>
+  </ExifValueItm>
+</ArrayOfExifValueItm>

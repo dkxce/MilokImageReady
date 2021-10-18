@@ -1,0 +1,5 @@
+bin\Release\IExifRenamer.dll
+bin\Release\IExifRenamer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\IExifRenamer.dll
+obj\Release\IExifRenamer.pdb

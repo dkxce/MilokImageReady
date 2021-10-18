@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Exif.Image.ProcessingSoftware</string>
+  <string>Exif.Image.ImageDescription</string>
+  <string>Exif.Image.Make</string>
+  <string>Exif.Image.Model</string>
+  <string>Exif.Image.Artist</string>
+  <string>Exif.Image.Software</string>
+  <string>Exif.Image.Copyright</string>
+  <string>Exif.Photo.UserComment</string>
+  <string>Exif.Image.UniqueCameraModel</string>
+  <string>Exif.Image.CameraSerialNumber</string>
+  <string>Iptc.Application2.Copyright</string>
+  <string>Iptc.Application2.Contact</string>
+</ArrayOfString>

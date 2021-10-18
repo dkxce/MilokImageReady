@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ExifRenamerDateTimeOriginal.dll
+bin\Debug\ExifRenamerDateTimeOriginal.pdb
+bin\Debug\IExifRenamer.dll
+bin\Debug\IExifRenamer.pdb
+obj\Debug\ExifRenamerDateTimeOriginal.dll
+obj\Debug\ExifRenamerDateTimeOriginal.pdb
+bin\Release\ExifRenamerDateTimeOriginal.dll
+bin\Release\ExifRenamerDateTimeOriginal.pdb
+bin\Release\IExifRenamer.dll
+bin\Release\IExifRenamer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ExifRenamerDateTimeOriginal.dll
+obj\Release\ExifRenamerDateTimeOriginal.pdb

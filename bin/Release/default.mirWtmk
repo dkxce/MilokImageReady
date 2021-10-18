@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WatermarkCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Milok Zbrozek</Text>
+  <Image>Watermark 100pc Opacity.png</Image>
+  <Image2Font>1</Image2Font>
+  <ImageOpacity>30</ImageOpacity>
+  <ImageQuality>85</ImageQuality>
+  <Opacity>10</Opacity>
+  <FontName>Milok Zbrozek Sign Semi</FontName>
+  <FontStyle>1</FontStyle>
+  <WatermarkStyle>2</WatermarkStyle>
+</WatermarkCfg>

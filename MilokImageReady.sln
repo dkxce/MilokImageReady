@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilokImageReady", "MilokImageReady.csproj", "{7AC8FEA1-AA15-4618-B654-E100838E9FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExifRenamerDateTimeOriginal", "ExifRenamerDateTimeOriginal\ExifRenamerDateTimeOriginal.csproj", "{E68938F3-8FD5-4FF3-8064-4EF76B3D07DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IExifRenamer", "IExifRenamer\IExifRenamer.csproj", "{D73E4F68-00FE-4870-9306-55733A8FB87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC8FEA1-AA15-4618-B654-E100838E9FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8FEA1-AA15-4618-B654-E100838E9FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8FEA1-AA15-4618-B654-E100838E9FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8FEA1-AA15-4618-B654-E100838E9FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68938F3-8FD5-4FF3-8064-4EF76B3D07DE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E68938F3-8FD5-4FF3-8064-4EF76B3D07DE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E68938F3-8FD5-4FF3-8064-4EF76B3D07DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68938F3-8FD5-4FF3-8064-4EF76B3D07DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73E4F68-00FE-4870-9306-55733A8FB87A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D73E4F68-00FE-4870-9306-55733A8FB87A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D73E4F68-00FE-4870-9306-55733A8FB87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73E4F68-00FE-4870-9306-55733A8FB87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

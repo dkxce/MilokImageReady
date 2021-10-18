@@ -1,0 +1,7 @@
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\bin\Release\ExifRenamerDateTimeOriginal.dll
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\bin\Release\ExifRenamerDateTimeOriginal.pdb
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\bin\Release\IExifRenamer.dll
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\bin\Release\IExifRenamer.pdb
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\obj\Release\ResolveAssemblyReference.cache
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\obj\Release\ExifRenamerDateTimeOriginal.dll
+M:\SOFTWARE\MySoft\MilokImageReady [SRC, Do NOT MODIFY HERE]\ExifRenamerDateTimeOriginal\obj\Release\ExifRenamerDateTimeOriginal.pdb
